@@ -1,2 +1,2 @@
 # travel-in-pentavago
-My Travel Static website
+Travel Static website
