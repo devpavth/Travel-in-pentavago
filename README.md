@@ -1,2 +1,2 @@
-# travel-in-pentavago
+# Travel-in-pentavago
 Travel Static website
